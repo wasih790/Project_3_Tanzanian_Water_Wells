@@ -1,9 +1,9 @@
 
-# Water Well Functionality Prediction
+# Tanzanian Water Well Functionality Prediction
 This repository contains a project focused on predicting the functionality of water well pumps in Tanzania. The goal of this project is to determine whether a pump is functional or non-functional and provide insights to prioritize repairs and filtration efforts for the wells.
 
 # Dataset
-The dataset used for this project consists of information on 59,000 water wells in Tanzania. Among these wells, 36,576 are functional pumps, while 22,824 are non-functional pumps. The dataset includes various attributes related to the wells, such as water quality, installation details, and location-specific information. The dataset used for analysis is stored in the file named water_well_dataset.csv, located in the data directory.
+The dataset used for this project consists of information on 59,000 water wells in Tanzania. Among these wells, 36,576 are functional pumps, while 22,824 are non-functional pumps. The dataset includes various attributes related to the wells, such as water quality, installation details, and location-specific information and etc. The dataset used for analysis is stored in the file named Taz_Water.csv, located in the Data Wranging directory.
 
 # Analysis
 The analysis focused on understanding the relationships between water well functionality and water quality attributes. The following insights were discovered:
@@ -14,7 +14,7 @@ The analysis focused on understanding the relationships between water well funct
 # Fundraising and Repairs
 Based on the analysis findings, the following recommendations are made regarding fundraising, repairs, and filtration efforts for the water wells:
 
-1. Fundraising: The Government of Tanzania and Danida are recommended as potential sources for raising funds due to their effectiveness and reliability.
+1. Fundraising: Danida (Danish International Development Agency) are recommended as potential sources for raising funds due to their effectiveness and reliability.
 
 2. Repairs: Prioritize repairs for functioning wells that require filters to yield safe drinking water. This strategy is recommended as it presents a smaller-scale project with significant impact potential.
 
@@ -43,7 +43,7 @@ Among the six models developed, the hyper-tuned random forest model emerged as t
 # Repository Structure
 The repository has the following structure:
 
-- data: This directory contains the dataset file (water_well_dataset.csv) used for model training and evaluation.
-- notebooks: This directory contains Jupyter notebooks used for data preprocessing, exploratory data analysis, and model development.
-- models: This directory contains the trained models and any necessary files related to the models.
-README.md: This file provides an overview of the project, instructions, and other relevant information.
+- Data Wranging: This directory contains the dataset file (Taz_Water.csv) used for model training, evaluation and exploratory data analysis.
+- Simple Model: This directory contains Jupyter notebooks used for logistic regression model development.
+- Complex Model: This directory contains the trained models Random Forest and XG Boosted any necessary files related to the models.
+- README.md: This file provides an overview of the project, instructions, and other relevant information.
