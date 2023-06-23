@@ -47,3 +47,4 @@ The repository has the following structure:
 - Simple Model: This directory contains Jupyter notebooks used for logistic regression model development.
 - Complex Model: This directory contains the trained models Random Forest and XG Boosted any necessary files related to the models.
 - README.md: This file provides an overview of the project, instructions, and other relevant information.
+- Presentation: The file provides a pdf overview of the project and the analysis. 
