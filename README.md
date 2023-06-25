@@ -49,3 +49,4 @@ The repository has the following structure:
 - README.md: This file provides an overview of the project, instructions, and other relevant information.
 - Presentation: The file provides a pdf overview of the project and the analysis. 
 - Visualization: This directory contains Tableau visualizations for the water well data. You can access the interactive visualizations using the following link: Tanzania Water Wells Tableau Visualizations
+(https://public.tableau.com/app/profile/mohamed.katherhassan/viz/TanzaniaWaterWells_All/WaterWells)
