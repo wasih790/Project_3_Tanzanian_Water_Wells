@@ -50,3 +50,6 @@ The repository has the following structure:
 - Presentation: The file provides a pdf overview of the project and the analysis. 
 - Visualization: This directory contains Tableau visualizations for the water well data. You can access the interactive visualizations using the following link: Tanzania Water Wells Tableau Visualizations
 (https://public.tableau.com/app/profile/mohamed.katherhassan/viz/TanzaniaWaterWells_All/WaterWells)
+
+# Original Data
+- The Orignial data can be found on this link https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
